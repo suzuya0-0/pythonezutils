@@ -1,7 +1,3 @@
-Absolutely! Here's a sample README for your ezfileutils script:
-
----
-
 # ezfileutils
 
 **ezfileutils** is a Python utility script that simplifies common file operations. It provides a set of functions to perform tasks such as file removal, renaming, copying, moving, reading, writing, directory management, and more.
